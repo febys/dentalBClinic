@@ -1,0 +1,8 @@
+.doctor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block-social-1 > a{
+  margin: 3px;
+}
